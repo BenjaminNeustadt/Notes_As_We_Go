@@ -1,0 +1,40 @@
+@import "https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700";
+@import "https://cdn.jsdelivr.net/gh/asciidoctor/asciidoctor@2.0/data/stylesheets/asciidoctor-default.css";
+
+a {
+  text-decoration: none;
+}
+
+body {
+  color: #d3d3d3;
+  background-color: #35353a ;
+}
+
+.light-body-experiment {
+  background-color: blue;
+}
+
+#toctitle {
+  font-family: Arial Black;
+}
+
+.sidebarblock {
+  background-color: #d3d3d3;
+}
+
+.sidebarblock-dark-theme {
+  background-color: pink;
+}
+
+#toc.toc2 {
+  background-color:#d3d3d3;
+}
+
+table {
+  background-color:#d3d3d3;
+}
+
+code {
+  background-color:#d3d3d3;
+}
+
